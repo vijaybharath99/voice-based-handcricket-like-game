@@ -1,4 +1,4 @@
-# voice-based-handcricket-like-game
+# voice-based-hand-cricket
 make sure all your libraries or packages are installed.
 
 paste the python PyAudio-0.2.11-cp37-cp37m-win_amd64.whl file in your python folder.
